@@ -277,7 +277,7 @@ The grammar notation is described in [Grammars section](09-lexical-structure.md#
    [   ]   (   )   {   }   .   -&gt;   ++   --   **   *   +   -   ~   !
    $   /   %   &lt;&lt;   &gt;&gt;   &lt;   &gt;   &lt;=   &gt;=   ==   ===   !=   !==   ^   |
    &amp;   &amp;&amp;   ||   ?   :   ;   =   **=   *=   /=   %=   +=   -=   .=   &lt;&lt;=
-   &gt;&gt;=   &amp;=   ^=   |=   ,   ??   &lt;=&gt;   ...   \
+   &gt;&gt;=   &amp;=   ^=   |=   ??=   ,   ??   &lt;=&gt;   ...   \
 </pre>
 
 ## Syntactic Grammar
